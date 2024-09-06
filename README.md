@@ -84,12 +84,8 @@
   <summary><b>📊 My Github Stats</b></summary>
 
 <h6 align="center">
-<!--img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"-->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-<!--img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=8
-"-->
-<!--img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"-->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osiristape&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img src="https://github.com/osiristape/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/osiristape/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </h6>
 </details>
 
