@@ -29,15 +29,6 @@
 </details>
 
 <details>
-<summary><b>Achievements</b></summary>
-<div>
-  
-- [Proficient in Web Fundamentals](https://drive.google.com/file/d/1Ekvy-Rd6f9-tLlbyXbe2hLcT2uWrmu8c/view?usp=sharing)
-
-</div>
-</details>
-
-<details>
   <summary><b>Hobbies and Interests</b></summary>
 <div>
   
