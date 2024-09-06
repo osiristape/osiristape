@@ -84,8 +84,9 @@
   <summary><b>📊 My Github Stats</b></summary>
 
 <h6 align="center">
-<img src="https://github.com/osiristape/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/osiristape/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
+  <img src="https://gh-readme-profile.vercel.app/api?username=osiristape&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true">
+
 </h6>
 </details>
 
