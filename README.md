@@ -28,14 +28,6 @@
 </div>
 </details>
 
-<details>
-  <summary><b>Hobbies and Interests</b></summary>
-<div>
-  
-- Sleeping 💤
-- Listening To Music 🎧
-
-</div>
 </details>
 <details>
   <summary><b>Motto</b></summary>
