@@ -14,9 +14,9 @@
 <summary><b>Personal Information</b></summary>
 <div>
 
-**Name:** Alexandra Acedo <br>
-**Email:** osiristape@proton.me <br>
-**MBTI:** INTP-J <br>
+- **Name:** Alexandra Acedo 
+- **Email:** osiristape@proton.me 
+- **MBTI:** INTP-J 
 
 </div>
 </details>
@@ -25,13 +25,13 @@
 <summary><b>Education</b></summary>
 <div>
 
-**Degree:** Bachelor of Science in Computer Science (Undergraduate) <br>
-**Institution:** La Consolacion College Bñ <br>
+- **Degree:** Bachelor of Science in Computer Science (Undergraduate) 
+- **Institution:** La Consolacion College Bñ 
 
 <b>Others:</b>
 
-CSU extended learning via IT Masters specializing in cybersecurity field. <br>
-**MTF Institute:** Project Management <br>
+- CSU extended learning via IT Masters specializing in cybersecurity field. 
+- **MTF Institute:** Project Management 
    
 </div>
 </details>
