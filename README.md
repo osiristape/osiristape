@@ -8,33 +8,7 @@
 <img src="https://github.com/osiristape/osiristape/blob/main/anime_1858504493.png" height="20%" width="20%"/>
 
 ### About Me <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="5%" width="5%"/>
-<h6> An introverted student who dwells in a nightmare <br> filled with an urge to unveil every door of the <br> afterlife never ends; instead of dying in dooms of <br> hopelessness, savor the demons that live within. </h6> 
-
-<details>
-<summary><b>Personal Information</b></summary>
-<div>
-
-- **Name:** Alexandra Acedo 
-- **Email:** osiristape@proton.me 
-- **MBTI:** INTP-J 
-
-</div>
-</details>
-
-<details>
-<summary><b>Education</b></summary>
-<div>
-
-- **Degree:** Bachelor of Science in Computer Science (Undergraduate) 
-- **Institution:** La Consolacion College Bñ 
-
-<b>Others:</b>
-
-- CSU extended learning via IT Masters specializing in cybersecurity field. 
-- **MTF Institute:** Project Management 
-   
-</div>
-</details>
+<h6> An introverted student who dwells in a nightmare <br> filled with an urge to unveil every door of the <br> afterlife never ends; instead of dying in dooms of <br> hopelessness, savor the demons that live within </h6>
 
 
 
