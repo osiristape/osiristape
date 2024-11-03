@@ -52,7 +52,7 @@
     </p>-->
 
 <h6 align="center">
-  <img title="spotify-github-profile" alt="spotify" src="https://github.com/osiristape/osiristape/blob/output/imsooutofthechessboard.svg"/><br><br>
+  <img title="spotify-github-profile" alt="spotify" src="https://github.com/osiristape/osiristape/blob/main/imsooutofthechessboard.svg"/><br><br>
   
   <a href="https://github.com/osiristape">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
