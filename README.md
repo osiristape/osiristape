@@ -64,6 +64,10 @@
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a> 
   <a href="https://infosec.exchange/@mewu">
   <img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://es.linkedin.com/in/alexandra-acedo-ba9221317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="margin-bottom: 5px;" />
+</a>
+
   
   <!--
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=10&unique=true&width=400" alt="Spotify recently played"/> -->
