@@ -52,15 +52,15 @@
     </p>-->
 
 <h6 align="center">
-  <img title="spotify-github-profile" alt="spotify" src="https://github.com/osiristape/osiristape/blob/main/imsooutofthechessboard.svg"/><br><br>
+  <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br><br>
 
   <a href="https://github.com/andraceli" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
   <a href="https://x.com/flopsicle0000" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt= osi style="margin-bottom: 5px;" /></a>
-  <!--- <a href="https://instagram.com/osiristape">
-  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a> https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false --->
-  <a href="https://www.youtube.com/@osiristape">
+  <a href="https://instagram.com/osiristape">
+  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a> 
+  <a href="https://www.youtube.com/@osiristape"> <br>
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a> 
   <a href="https://infosec.exchange/@mewu">
   <img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" /></a>
