@@ -1,4 +1,5 @@
 
+
 <!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/> </p>  -->
 
@@ -41,20 +42,18 @@
 
 ## 🍿 !notifs 
 <h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34"  />
-</h6 <br>
-<p align="center"> 
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true">
-        <img title="spotify-github-profile" alt="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=5&unique=true&width=400"/></a>
-</p>
+  <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34"/>
+</h6>
+    <!--<p align="center"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true">
+        <img title="spotify-github-profile" alt="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312vprgbiy5vh2vocqkmqv6jjlli&count=5&unique=true&width=400"/></a--> 
        <!-- https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false
     https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&redirect=true--
     https://profile-counter.glitch.me/osiristape/count.svg?
     </p>-->
 
 <h6 align="center">
-  <img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br><br>
-
+    <img src="https://tryhackme-badges.s3.amazonaws.com/osiristape.png" alt="Your Image Badge" /> <br>
+  <!--<img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br><br>-->
   <a href="https://github.com/andraceli" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
   <a href="https://x.com/flopsicle0000" target="_blank">
