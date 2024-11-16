@@ -52,7 +52,7 @@
     </p>-->
 
 <h6 align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/osiristape.png" alt="Your Image Badge" /> <br>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/osiristape.png" alt="Your Image Badge" /> <br><br>
   <!--<img title="spotify-github-profile" alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313hfc2beewahvywizatlu63l4f4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false"/><br><br>-->
   <a href="https://github.com/andraceli" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
