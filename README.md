@@ -13,7 +13,7 @@
 
 <h6 align="center">
    
-  <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3802446" target="_blank">
+  <a href="https://tryhackme.com/r/p/osiristape" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/osiristape.png" alt="Your Image Badge" /> <br><br>
   <a href="https://github.com/andraceli" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" style="margin-bottom: 5px;" /></a>
