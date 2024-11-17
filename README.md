@@ -32,6 +32,17 @@
 
 ##
 
+<details> 
+<summary><b>📬 Contact Me</b></summary>
+<div>
+  
+#### You can reach me via:
+- **Line ID**: [osiristape](https://line.me/ti/p/pWLRh9tNww)
+- **Email**: [osiristape@proton.me](mailto:osiristape@proton.me)
+
+</div>
+</details>
+
 <details>
   <summary><b>⛎ My Pet</b></summary>
 
