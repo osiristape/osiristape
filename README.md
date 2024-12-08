@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/029/063/original/215ed9fc08e47c2d.png" length="50" width="50" /> <br><br>
+<img src="https://cdn.catcatnya.com/custom_emojis/images/000/002/291/original/blobCat_broken_heart.png" length="50" width="50" /> <br><br>
 <a href="https://github.com/osiristape" target="_blank"><strong>osiristape</strong></a>  |  
 <a href="https://github.com/TAPEZONE128" target="_blank"><strong>TAPEZONE128</strong></a>  |  
 <a href="https://github.com/VIRUZ801" target="_blank"><strong>VIRUS801</strong></a> 
