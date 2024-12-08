@@ -9,7 +9,8 @@
 ##
 <h6 align="center">
   <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34"/><br><br>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"><br>
+  <a href="https://open.spotify.com/user/312vprgbiy5vh2vocqkmqv6jjlli" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312vprgbiy5vh2vocqkmqv6jjlli&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/> </a><br>
   <a href="https://tryhackme.com/r/p/osiristape" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/osiristape.png" alt="Your Image Badge" /> <br><br>
   <a href="https://github.com/andraceli" target="_blank"> 
