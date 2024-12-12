@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.catcatnya.com/custom_emojis/images/000/002/291/original/blobCat_broken_heart.png" length="50" width="50" /> <br><br>
+<img src="https://cdn.catcatnya.com/custom_emojis/images/000/151/354/original/b5be0be8cee73f7c.png" length="70" width="70" /> <br><br>
 <a href="https://github.com/osiristape" target="_blank"><strong>osiristape</strong></a>  |  
 <a href="https://github.com/TAPEZONE128" target="_blank"><strong>TAPEZONE128</strong></a>  |  
 <a href="https://github.com/VIRUZ801" target="_blank"><strong>VIRUS801</strong></a> 
