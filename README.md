@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://cdn.catcatnya.com/custom_emojis/images/000/014/142/original/07b17c1f5a86565d.png" length="60" width="60" /> <br><br>
-<a href="https://github.com/osiristape" target="_blank"><strong>osiristape</strong></a>  |  
+<a href="https://github.com/8ORUZ7" target="_blank"><strong>8ORUZ7</strong></a>  |  
 <a href="https://github.com/TAPEZONE128" target="_blank"><strong>TAPEZONE128</strong></a>  |  
 <a href="https://github.com/VIRUZ801" target="_blank"><strong>VIRUS801</strong></a> 
 <h6 align="center"> An introverted student who dwells in a nightmare <br> filled with an urge to unveil every door of the <br> afterlife never ends; instead of dying in dooms of <br> hopelessness, savor the demons that live within </h6>
