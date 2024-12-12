@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.catcatnya.com/custom_emojis/images/000/151/354/original/b5be0be8cee73f7c.png" length="70" width="70" /> <br><br>
+<img src="https://cdn.catcatnya.com/custom_emojis/images/000/014/142/original/07b17c1f5a86565d.png" length="60" width="60" /> <br><br>
 <a href="https://github.com/osiristape" target="_blank"><strong>osiristape</strong></a>  |  
 <a href="https://github.com/TAPEZONE128" target="_blank"><strong>TAPEZONE128</strong></a>  |  
 <a href="https://github.com/VIRUZ801" target="_blank"><strong>VIRUS801</strong></a> 
@@ -18,9 +18,7 @@
   <a href="https://bsky.app/profile/osiristape.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white" alt="osi" style="margin-bottom: 5px;" /></a>
   <a href="https://www.youtube.com/@osiristape"> <br>
-  <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a> 
-  <a href="https://infosec.exchange/@mewu">
-  <img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" /></a>
   <a href="https://es.linkedin.com/in/amgacedo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="margin-bottom: 5px;" />
   </a> 
